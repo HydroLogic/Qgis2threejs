@@ -1,5 +1,13 @@
 ## CHANGELOG
 
+### Version 1.2
+* map rotation support
+* update three.js library (r70). Loading time is reduced by using PlaneBufferGeometry.
+* new object type: COLLADA model (Point, experimental)
+* fix 2.5D geometry export bug
+* ability to save/load export settings
+* python code refactoring
+
 ### Version 1.1.1
 * bug fixes (icon and attribute export)
 
